@@ -1,0 +1,1 @@
+exports.ifxdbs = "SERVER=ol_informix1410;DATABASE=practico;HOST=localhost;SERVICE=9088;UID=informix;PWD=m1k1b100d;"
